@@ -6,6 +6,8 @@ body {
   height: 7000px;
   background-color: black;
   color: white;
+  font family: FiraCode;
+  
 }
 .section-1 nav {
   width: 100%;
